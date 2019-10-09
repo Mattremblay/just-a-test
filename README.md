@@ -9,3 +9,4 @@ for line in lines[1:]:
     price = int (columns[9])
     if price >= int(min) and price <= int(max):
         print (line)
+#this is just a test
